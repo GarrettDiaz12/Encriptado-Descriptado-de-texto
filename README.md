@@ -10,6 +10,7 @@ de abrir, guardar, encriptar y desencripta.
 # Pre-requisitos 
 - Un de java en este caso (IDE. NetBeans 8.2) 
 - Librerías como:
+
    *import java.io.BufferedReader;   
 
    *import java.io.FileNotFoundException;
