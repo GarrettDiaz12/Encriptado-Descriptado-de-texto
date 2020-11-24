@@ -54,7 +54,7 @@ https://stackoverrun.com/es/q/1065964
 
 file:///C:/Users/valti/Downloads/Como%20programar%20en%20Java%20-%207ma%20Edicion%20-%20P.%20J.%20Deitel.pdf
 
-# iMPORTANTE
+# IMPORTANTE
 - Para abrir el archivo se tiene que escribir "file" y presiona boton de open
 
 # Ejecucion:
