@@ -1,4 +1,4 @@
-<# Cifrado de una cadena de texto
+# Cifrado de una cadena de texto
 Desarrollar un programa que implemente una aplicación con GUI para el cifrado de archivos de texto con el algoritmo de cifrado Vigenère. Se va a crear un programa de cifrado simple. El proceso es muy sencillo. Se divide en dos partes. En primer lugar, cada letra mayúscula o minúscula debe desplazarse tres posiciones hacia la derecha, de acuerdo con la tabla ASCII: la letra ’a’ debe convertirse en la letra ’d’, la letra ’y’ debe convertirse en el carácter’—’, etc. En segundo lugar, cada línea debe invertirse. Después de invertir, todos los caracteres de la mitad en adelante (truncado) deben moverse una posición a la izquierda en ASCII. En este caso, ’b’ se convierte en ’a’ y ’a’ se convierte en ’‘’. Por ejemplo, si como entrada tenemos la cadena abcABC1 si la palabra resultante de la primera parte es ”defDEF1”, las letras ”DEF1”deben moverse una posición a la izquierda. Sin embargo, si la palabra resultante de la primera parte es ”tesA”, las letras ”sA”serán desplazadas. El resultado cifrado de la cadena es 1FECedc.
 
 # Características solicitadas 
@@ -54,7 +54,7 @@ https://stackoverrun.com/es/q/1065964
 
 file:///C:/Users/valti/Downloads/Como%20programar%20en%20Java%20-%207ma%20Edicion%20-%20P.%20J.%20Deitel.pdf
 
-#iMPORTANTE
+# iMPORTANTE
 - Para abrir el archivo se tiene que escribir "file" y presiona boton de open
 
 # Ejecucion:
